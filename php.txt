@@ -1,1 +1,2 @@
 php = hypertext preprocessor
+Pada awalnya PHP merupakan kependekan dari Personal Home Page
