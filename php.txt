@@ -1,2 +1,2 @@
 php = hypertext preprocessor
-Pada awalnya PHP merupakan kependekan dari Personal Home Page
+PHP ditemukan pada tahun 1994 oleh Rasmus Lerdorf
