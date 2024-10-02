@@ -1,1 +1,2 @@
 latihan php
+latihan javascript
