@@ -1,1 +1,2 @@
 php = hypertext preprocessor
+PHP ditemukan pada tahun 1994 oleh Rasmus Lerdorf
